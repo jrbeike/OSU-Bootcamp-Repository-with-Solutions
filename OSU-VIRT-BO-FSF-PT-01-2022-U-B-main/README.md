@@ -52,4 +52,3 @@ For a closer look at each module, refer to the module overviews to learn:
 
 ---
 
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
